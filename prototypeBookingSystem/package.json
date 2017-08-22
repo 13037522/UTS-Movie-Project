@@ -7,5 +7,14 @@
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
     "react-scripts": "^1.0.11"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "prototypebookingsystem",
+  "version": "1.0.0",
+  "description": "appointment manager",
+  "main": "server.js",
+  "author": "",
+  "license": "ISC"
 }
